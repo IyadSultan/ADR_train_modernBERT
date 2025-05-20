@@ -1,0 +1,39 @@
+48-y/o M with HTN, DM2, started lisinopril 10 mg QAM three weeks ago. Over the last 10 days he's developed a persistent, dry, hacking cough that disrupts sleep (wakes ≈4×/night), no sputum, no fever, no SOB. Denies GERD sxs or post-nasal drip. Assessment: Probable ACE-inhibitor–induced cough; most common ADR, typically appears within weeks of initiation.
+
+62-y/o F with hyperlipidemia on simvastatin 40 mg nightly ×6 mo reports insidious onset bilateral aching in proximal thighs, worse climbing stairs; also feels increasingly fatigued. No recent trauma/exercise change. Assessment: Statin-associated myopathy with mild transaminitis; likely dose-related.
+
+22-y/o college student treated for streptococcal pharyngitis; developed generalized pruritus and raised erythematous wheals 2 h after first amoxicillin 500 mg dose. No dyspnea, throat swelling, or dizziness. Assessment: Acute IgE-mediated urticaria—probable immediate allergy to penicillin class.
+
+77-y/o M with AF on warfarin (goal INR 2–3) notes 2 days of melena + lightheadedness. No NSAID use. Assessment: Warfarin-associated upper-GI bleed (supra-therapeutic INR).
+
+55-y/o F with newly dx DM2 started metformin XR 1 g nightly 1 wk ago; endorses severe post-prandial nausea, loose non-bloody stools (3–4/day), metallic taste. Hydration adequate, denies abd pain. Assessment: Metformin-related GI intolerance; more common with higher initial dose.
+
+30-y/o competitive runner on levofloxacin 500 mg daily (day 4) for refractory sinusitis; now has acute left Achilles tendon pain & mild swelling after routine jog; denies trauma. Assessment: Fluoroquinolone-induced tendinopathy; risk ↑ in athletes.
+
+40-y/o M with focal seizures on carbamazepine 400 mg TID; routine labs reveal Na 128 mEq/L (base 138). Asymptomatic. Assessment: Carbamazepine-induced SIADH causing mild hyponatremia.
+
+34-y/o F with treatment-resistant schizophrenia on clozapine 250 mg/d ×8 wks. Weekly CBC shows WBC 2.2 ×10⁹, ANC 900 (prev 2300). No infection sxs. Assessment: Clozapine-associated neutropenia—meets threshold to interrupt therapy.
+
+Post-op day 1 cholecystectomy pt on morphine PCA 1 mg q8 min lockout; reports intense generalized itch without rash, worse on face & trunk; denies SOB. Assessment: Opioid-induced pruritus likely from histamine release.
+
+During first vancomycin loading dose (1 g over 30 min) patient became flushed, neck/face erythema, BP 90/50 from 120/80, pruritus. No wheeze. Assessment: Red-man syndrome—rate-related infusion reaction, not IgE allergy.
+
+29-y/o M on sertraline 100 mg/d ×4 wk for MDD; notes markedly decreased libido & delayed ejaculation, causing distress. No other ADRs. Assessment: SSRI sexual dysfunction—common dose-dependent ADR.
+
+68-y/o M with HTN on HCTZ 25 mg daily ×2 y; developed acute gout flare (R 1st MTP). Serum uric acid 9.2 mg/dL (was 6.5). Assessment: Thiazide-induced hyperuricemia precipitating gout.
+
+35-y/o F with moderate persistent asthma using albuterol MDI q2 h over holiday weekend due to lost controller inhaler; reports new tremor, palpitations, anxiety. Assessment: β₂-agonist overuse symptoms (systemic catechol effect).
+
+72-y/o M with recent MI started propranolol 40 mg BID; now experiencing dizziness, near-syncope. Assessment: Beta-blocker–induced bradycardia with relative hypotension.
+
+50-y/o F with knee OA on high-dose ibuprofen 800 mg TID + misoprostol; c/o burning epigastric pain, early satiety, ankle edema. Assessment: NSAID gastritis vs early PUD + NSAID-related fluid retention.
+
+57-y/o hospitalized for VRE bacteremia on linezolid 600 mg q12 h (day 14); now reports new paresthesias in distal feet; CBC shows platelets 95 k (was 230 k). Assessment: Linezolid-induced peripheral neuropathy and thrombocytopenia (time-dependent ADR).
+
+80-y/o M with HFrEF on digoxin 0.125 mg daily presents describing "yellow halos" around lights and mild nausea. Assessment: Digoxin toxicity likely due to renal impairment + age.
+
+65-y/o F on unfractionated heparin for proximal DVT; by day 5 platelets fell 240 → 100 ×10⁹. No new thrombosis. Assessment: 4T score 6 → high suspicion heparin-induced thrombocytopenia (HIT).
+
+46-y/o F treated with nitrofurantoin 100 mg BID (day 6) for UTI; progressive dry cough, dyspnea, low-grade fevers; O₂ sat 92 % RA. Assessment: Possible nitrofurantoin-induced acute pulmonary hypersensitivity.
+
+60-y/o M here for routine HTN f/u on amlodipine 5 mg daily ×3 yr. Feels well; denies dizziness, edema, flushing, or gingival changes. Assessment: BP well-controlled; no adverse drug events noted. 
